@@ -63,3 +63,8 @@ Findings included:
 
 ## Conclusion  
 System inefficiency was driven more by misaligned bus allocation than by ridership volume itself. Improving performance requires adjusting fleet distribution based on actual route demand rather than maintaining static allocations. Targeted reallocation during peak periods would reduce dwell time, improve flow across campuses, and minimize network-wide delays.
+
+---
+
+## Data Source
+[Fall 2025 Datathon](https://github.com/RutgersDataScienceClub/Fall-2025-Datathon)
